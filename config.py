@@ -1,2 +1,2 @@
 print("config")
-print("config from pr")
+print("config from pr 1")
