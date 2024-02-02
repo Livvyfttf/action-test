@@ -1,1 +1,1 @@
-print("config 6")
+print("config 6 7")
